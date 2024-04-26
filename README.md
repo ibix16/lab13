@@ -1,1 +1,1 @@
-SJSU CS46B Lab 
+SJSU CS46B Lab - In this lab, you will build a tree structure in Java to represent the family tree of the Baggins family of hobbits. You will also learn how to use git and Github to collaborate on programming tasks. Familiarity with git and GitHub will be very helpful in future CS classes and when looking for internships and jobs. 
